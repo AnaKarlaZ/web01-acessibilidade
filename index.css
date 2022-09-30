@@ -1,0 +1,103 @@
+a:link {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:visited {
+    color: white;
+    background-color: transparent;
+    text-decoration: none;
+}
+  
+a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+  
+a:active {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
+}
+
+#principal{
+    overflow: hidden;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 40px;
+    text-align: center;
+    color: white
+}
+
+#header{
+    height: 200px;
+    background-color: rgb(45,47,121);
+    border-radius: 30px;
+    margin-bottom: 10px;
+}
+
+#nav{
+    height: 500px;
+    width: 20%;
+    background-color: rgb(45,47,121);
+    float: left;
+    border-radius: 30px;
+    margin-left: 10px;
+}
+
+#main{
+    height: 500px;
+    width: 42%;
+    color:white;
+    background-color: rgb(45,47,121);
+    float: left;
+    border-radius: 30px;
+    margin-left: 10px;
+    justify-content: space-between;
+}
+
+#aside{
+    height: 500px;
+    width: 35%;
+    background-color: rgb(45,47,121);
+    float: right;
+    border-radius: 30px;
+    margin-right: 10px;
+    overflow-y: scroll;
+}
+
+#footer{
+    height: 120px;
+    width: 100%;
+    background-color: rgb(45,47,121);
+    float: left;
+    border-radius: 30px;
+    margin-top: 10px;
+}
+
+img{
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+#h1{
+    color: white;
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+}
+
+ul{
+    width: 250px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 10px;
+    text-align: center;
+}
+
+p{
+    padding: 5px;
+}
